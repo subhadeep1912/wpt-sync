@@ -142,8 +142,9 @@ pycparser==2.20 \
 pygit2==0.28.2 \
     --hash=sha256:6f44ee84fbe9b0b69f018dbe187d01a1949ab33f2cb5844d87a1929ccbd2b310 \
     --hash=sha256:d4c84cd7c5a3d71757933d190018f5fc131aeb392d304ba9c505e9e95473f935 # pyup: <1.0.0
-PyGithub==1.45 \
-    --hash=sha256:980ac6288f3b38332ae988b7d7374e2b71e21d4e3332413c079fd92dda040126 # pyup: <1.46
+PyGithub==1.53 \
+    --hash=sha256:8ad656bf79958e775ec59f7f5a3dbcbadac12147ae3dc42708b951064096af15 \
+    --hash=sha256:776befaddab9d8fddd525d52a6ca1ac228cf62b5b1e271836d766f4925e1452e # pyup: <1.46
 Pygments==2.7.1 \
     --hash=sha256:307543fe65c0947b126e83dd5a61bd8acbd84abec11f43caebaf5534cbc17998 \
     --hash=sha256:926c3f319eda178d1bd90851e4317e6d8cdb5e292a3386aac9bd75eca29cf9c7
